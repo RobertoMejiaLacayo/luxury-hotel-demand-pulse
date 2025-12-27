@@ -1,0 +1,5 @@
+pytrends
+pandas
+google-cloud-bigquery
+functions-framework
+requests
